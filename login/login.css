@@ -231,7 +231,7 @@ ul li {
   box-sizing: border-box;
   padding: 10px;
   border: 1px solid var(--borderpink);
-  background-image: url(../img/section-title.png);
+  background-image: url('../img/section-title.png');
   margin: 40px 20px;
   width: 700px;
 }
